@@ -1,0 +1,594 @@
+Brand,Model,AccelSec,TopSpeed_KmH,Range_Km,Efficiency_WhKm,FastCharge_KmH,RapidCharge,PowerTrain,PlugType,BodyStyle,Segment,Seats,PriceEuro,ElectricCarData_Norm.Accel,ElectricCarData_Norm.TopSpeed,ElectricCarData_Norm.Range,ElectricCarData_Norm.Efficiency,ElectricCarData_Norm.FastCharge,ElectricCarData_Norm.RapidCharge,ElectricCarData_Norm.PowerTrain,ElectricCarData_Norm.PlugType,ElectricCarData_Norm.BodyStyle,ElectricCarData_Norm.Segment,ElectricCarData_Norm.Seats,ElectricCarData_Norm.PriceEuro
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model 3 Long Range Dual Motor,4.6,233,450,161,940,Yes,AWD,Type 2 CCS,Sedan,D,5,55480,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model 3 Standard Range Plus,5.6,225,310,153,650,Yes,RWD,Type 2 CCS,Sedan,D,5,46380,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model Y Long Range Dual Motor,5.1,217,425,171,930,Yes,AWD,Type 2 CCS,SUV,D,7,58620,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model 3 Long Range Performance,3.4,261,435,167,910,Yes,AWD,Type 2 CCS,Sedan,D,5,61480,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Cybertruck Tri Motor,3,210,750,267,710,Yes,AWD,Type 2 CCS,Pickup,N,6,75000,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model S Long Range,3.8,250,515,184,560,Yes,AWD,Type 2,Liftback,F,5,79990,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Roadster ,2.1,410,970,206,920,Yes,AWD,Type 2 CCS,Cabrio,S,4,215000,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model X Long Range,4.6,250,450,211,490,Yes,AWD,Type 2,SUV,F,7,85990,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model S Performance,2.5,261,505,188,550,Yes,AWD,Type 2,Liftback,F,5,96990,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model Y Long Range Performance,3.7,241,410,177,900,Yes,AWD,Type 2 CCS,SUV,D,7,65620,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Cybertruck Dual Motor,5,190,460,261,710,Yes,AWD,Type 2 CCS,Pickup,N,6,55000,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Model X Performance,2.8,250,440,216,480,Yes,AWD,Type 2,SUV,F,7,102990,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,4.6 sec,233 km/h,450 km,161 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,55480
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,5.6 sec,225 km/h,310 km,153 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,46380
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,5.1 sec,217 km/h,425 km,171 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,58620
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,3.4 sec,261 km/h,435 km,167 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,D,5,61480
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,3.0 sec,210 km/h,750 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,75000
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,3.8 sec,250 km/h,515 km,184 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,79990
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,2.1 sec,410 km/h,970 km,206 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,S,4,215000
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,4.6 sec,250 km/h,450 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,85990
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,2.5 sec,261 km/h,505 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,5,96990
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,3.7 sec,241 km/h,410 km,177 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,7,65620
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,5.0 sec,190 km/h,460 km,261 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,N,6,55000
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,2.8 sec,250 km/h,440 km,216 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,F,7,102990
+Tesla ,Cybertruck Single Motor,7,180,390,256,740,No,RWD,Type 2 CCS,Pickup,N,6,45000,7.0 sec,180 km/h,390 km,256 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,6,45000
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,30000,10.0 sec,160 km/h,270 km,167 Wh/km,250 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,30000
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,30000,9.6 sec,150 km/h,190 km,168 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,31900
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,30000,7.9 sec,160 km/h,440 km,175 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,40936
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,30000,11.9 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,21421
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,30000,7.5 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,30000,9.0 sec,160 km/h,350 km,166 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,33000
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,30000,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,38987
+Volkswagen ,ID.3 Pure,10,160,270,167,250,No,RWD,Type 2 CCS,Hatchback,C,5,30000,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,35575
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,31900,10.0 sec,160 km/h,270 km,167 Wh/km,250 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,30000
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,31900,9.6 sec,150 km/h,190 km,168 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,31900
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,31900,7.9 sec,160 km/h,440 km,175 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,40936
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,31900,11.9 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,21421
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,31900,7.5 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,31900,9.0 sec,160 km/h,350 km,166 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,33000
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,31900,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,38987
+Volkswagen ,e-Golf ,9.6,150,190,168,220,No,FWD,Type 2 CCS,Hatchback,C,5,31900,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,35575
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,40936,10.0 sec,160 km/h,270 km,167 Wh/km,250 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,30000
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,40936,9.6 sec,150 km/h,190 km,168 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,31900
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,40936,7.9 sec,160 km/h,440 km,175 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,40936
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,40936,11.9 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,21421
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,40936,7.5 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,40936,9.0 sec,160 km/h,350 km,166 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,33000
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,40936,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,38987
+Volkswagen ,ID.3 Pro S,7.9,160,440,175,590,Yes,RWD,Type 2 CCS,Hatchback,C,4,40936,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,35575
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,21421,10.0 sec,160 km/h,270 km,167 Wh/km,250 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,30000
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,21421,9.6 sec,150 km/h,190 km,168 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,31900
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,21421,7.9 sec,160 km/h,440 km,175 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,40936
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,21421,11.9 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,21421
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,21421,7.5 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,21421,9.0 sec,160 km/h,350 km,166 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,33000
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,21421,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,38987
+Volkswagen ,e-Up! ,11.9,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,21421,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,35575
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000,10.0 sec,160 km/h,270 km,167 Wh/km,250 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,30000
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000,9.6 sec,150 km/h,190 km,168 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,31900
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000,7.9 sec,160 km/h,440 km,175 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,40936
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000,11.9 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,21421
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000,7.5 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000,9.0 sec,160 km/h,350 km,166 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,33000
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,38987
+Volkswagen ,ID.4 ,7.5,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,45000,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,35575
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,33000,10.0 sec,160 km/h,270 km,167 Wh/km,250 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,30000
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,33000,9.6 sec,150 km/h,190 km,168 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,31900
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,33000,7.9 sec,160 km/h,440 km,175 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,40936
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,33000,11.9 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,21421
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,33000,7.5 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,33000,9.0 sec,160 km/h,350 km,166 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,33000
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,33000,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,38987
+Volkswagen ,ID.3 Pro,9,160,350,166,490,Yes,RWD,Type 2 CCS,Hatchback,C,5,33000,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,35575
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,38987,10.0 sec,160 km/h,270 km,167 Wh/km,250 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,30000
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,38987,9.6 sec,150 km/h,190 km,168 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,31900
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,38987,7.9 sec,160 km/h,440 km,175 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,40936
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,38987,11.9 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,21421
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,38987,7.5 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,38987,9.0 sec,160 km/h,350 km,166 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,33000
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,38987,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,38987
+Volkswagen ,ID.3 1st,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,38987,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,35575
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,35575,10.0 sec,160 km/h,270 km,167 Wh/km,250 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,30000
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,35575,9.6 sec,150 km/h,190 km,168 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,31900
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,35575,7.9 sec,160 km/h,440 km,175 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,40936
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,35575,11.9 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,21421
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,35575,7.5 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,35575,9.0 sec,160 km/h,350 km,166 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,33000
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,35575,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,38987
+Volkswagen ,ID.3 Pro Performance,7.3,160,340,171,470,Yes,RWD,Type 2 CCS,Hatchback,C,5,35575,7.3 sec,160 km/h,340 km,171 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,5,35575
+Polestar ,2,4.7,210,400,181,620,Yes,AWD,Type 2 CCS,Liftback,D,5,56440,4.7 sec,210 km/h,400 km,181 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,D,5,56440
+BMW ,iX3 ,6.8,180,360,206,560,Yes,RWD,Type 2 CCS,SUV,D,5,68040,6.8 sec,180 km/h,360 km,206 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,68040
+BMW ,iX3 ,6.8,180,360,206,560,Yes,RWD,Type 2 CCS,SUV,D,5,68040,4.0 sec,200 km/h,450 km,178 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,65000
+BMW ,iX3 ,6.8,180,360,206,560,Yes,RWD,Type 2 CCS,SUV,D,5,68040,7.3 sec,150 km/h,235 km,161 Wh/km,270 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,38017
+BMW ,iX3 ,6.8,180,360,206,560,Yes,RWD,Type 2 CCS,SUV,D,5,68040,6.9 sec,160 km/h,230 km,165 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,41526
+BMW ,i4 ,4,200,450,178,650,Yes,RWD,Type 2 CCS,Sedan,D,5,65000,6.8 sec,180 km/h,360 km,206 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,68040
+BMW ,i4 ,4,200,450,178,650,Yes,RWD,Type 2 CCS,Sedan,D,5,65000,4.0 sec,200 km/h,450 km,178 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,65000
+BMW ,i4 ,4,200,450,178,650,Yes,RWD,Type 2 CCS,Sedan,D,5,65000,7.3 sec,150 km/h,235 km,161 Wh/km,270 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,38017
+BMW ,i4 ,4,200,450,178,650,Yes,RWD,Type 2 CCS,Sedan,D,5,65000,6.9 sec,160 km/h,230 km,165 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,41526
+BMW ,i3 120 Ah,7.3,150,235,161,270,No,RWD,Type 2 CCS,Hatchback,B,4,38017,6.8 sec,180 km/h,360 km,206 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,68040
+BMW ,i3 120 Ah,7.3,150,235,161,270,No,RWD,Type 2 CCS,Hatchback,B,4,38017,4.0 sec,200 km/h,450 km,178 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,65000
+BMW ,i3 120 Ah,7.3,150,235,161,270,No,RWD,Type 2 CCS,Hatchback,B,4,38017,7.3 sec,150 km/h,235 km,161 Wh/km,270 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,38017
+BMW ,i3 120 Ah,7.3,150,235,161,270,No,RWD,Type 2 CCS,Hatchback,B,4,38017,6.9 sec,160 km/h,230 km,165 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,41526
+BMW ,i3s 120 Ah,6.9,160,230,165,260,Yes,RWD,Type 2 CCS,Hatchback,B,4,41526,6.8 sec,180 km/h,360 km,206 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,68040
+BMW ,i3s 120 Ah,6.9,160,230,165,260,Yes,RWD,Type 2 CCS,Hatchback,B,4,41526,4.0 sec,200 km/h,450 km,178 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,5,65000
+BMW ,i3s 120 Ah,6.9,160,230,165,260,Yes,RWD,Type 2 CCS,Hatchback,B,4,41526,7.3 sec,150 km/h,235 km,161 Wh/km,270 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,38017
+BMW ,i3s 120 Ah,6.9,160,230,165,260,Yes,RWD,Type 2 CCS,Hatchback,B,4,41526,6.9 sec,160 km/h,230 km,165 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,41526
+Honda ,e ,9.5,145,170,168,190,Yes,RWD,Type 2 CCS,Hatchback,B,4,32997,9.5 sec,145 km/h,170 km,168 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,32997
+Honda ,e ,9.5,145,170,168,190,Yes,RWD,Type 2 CCS,Hatchback,B,4,32997,8.3 sec,145 km/h,170 km,168 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,35921
+Honda ,e Advance,8.3,145,170,168,190,Yes,RWD,Type 2 CCS,Hatchback,B,4,35921,9.5 sec,145 km/h,170 km,168 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,32997
+Honda ,e Advance,8.3,145,170,168,190,Yes,RWD,Type 2 CCS,Hatchback,B,4,35921,8.3 sec,145 km/h,170 km,168 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,B,4,35921
+Lucid ,Air ,2.8,250,610,180,620,Yes,AWD,Type 2 CCS,Sedan,F,5,105000,2.8 sec,250 km/h,610 km,180 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,5,105000
+Peugeot ,e-208 ,8.1,150,275,164,420,No,FWD,Type 2 CCS,Hatchback,B,5,29682,8.1 sec,150 km/h,275 km,164 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29682
+Peugeot ,e-208 ,8.1,150,275,164,420,No,FWD,Type 2 CCS,Hatchback,B,5,29682,8.5 sec,150 km/h,250 km,180 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,34361
+Peugeot ,e-2008 SUV ,8.5,150,250,180,380,No,FWD,Type 2 CCS,SUV,B,5,34361,8.1 sec,150 km/h,275 km,164 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29682
+Peugeot ,e-2008 SUV ,8.5,150,250,180,380,No,FWD,Type 2 CCS,SUV,B,5,34361,8.5 sec,150 km/h,250 km,180 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,34361
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,Q4 e-tron ,6.3,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,D,5,55000,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,e-tron GT ,3.5,240,425,197,850,Yes,AWD,Type 2 CCS,Sedan,F,4,125000,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,e-tron 50 quattro,6.8,190,280,231,450,Yes,AWD,Type 2 CCS,SUV,E,5,67358,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,e-tron Sportback 55 quattro,5.7,200,380,228,610,Yes,AWD,Type 2 CCS,SUV,E,5,81639,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,e-tron 55 quattro,5.7,200,365,237,590,No,AWD,Type 2 CCS,SUV,E,5,79445,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,Q4 Sportback e-tron ,6.3,180,410,188,550,Yes,AWD,Type 2 CCS,SUV,D,5,57500,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,e-tron Sportback 50 quattro,6.8,190,295,219,470,Yes,AWD,Type 2 CCS,SUV,E,5,69551,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,e-tron S 55 quattro,4.5,210,320,270,510,Yes,AWD,Type 2 CCS,SUV,E,5,93800,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,6.3 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,55000
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,3.5 sec,240 km/h,425 km,197 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,125000
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,6.8 sec,190 km/h,280 km,231 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,67358
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,5.7 sec,200 km/h,380 km,228 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,81639
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,5.7 sec,200 km/h,365 km,237 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,79445
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,6.3 sec,180 km/h,410 km,188 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,57500
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,6.8 sec,190 km/h,295 km,219 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,69551
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,4.5 sec,210 km/h,320 km,270 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,93800
+Audi ,e-tron S Sportback 55 quattro,4.5,210,335,258,540,Yes,AWD,Type 2 CCS,SUV,E,5,96050,4.5 sec,210 km/h,335 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,96050
+Mercedes ,EQC 400 4MATIC,5.1,180,370,216,440,Yes,AWD,Type 2 CCS,SUV,D,5,69484,5.1 sec,180 km/h,370 km,216 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,69484
+Mercedes ,EQC 400 4MATIC,5.1,180,370,216,440,Yes,AWD,Type 2 CCS,SUV,D,5,69484,5.0 sec,200 km/h,350 km,171 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Mercedes ,EQC 400 4MATIC,5.1,180,370,216,440,Yes,AWD,Type 2 CCS,SUV,D,5,69484,10.0 sec,140 km/h,330 km,273 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,N,7,70631
+Mercedes ,EQA ,5,200,350,171,440,No,AWD,Type 2 CCS,SUV,C,5,45000,5.1 sec,180 km/h,370 km,216 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,69484
+Mercedes ,EQA ,5,200,350,171,440,No,AWD,Type 2 CCS,SUV,C,5,45000,5.0 sec,200 km/h,350 km,171 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Mercedes ,EQA ,5,200,350,171,440,No,AWD,Type 2 CCS,SUV,C,5,45000,10.0 sec,140 km/h,330 km,273 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,N,7,70631
+Mercedes ,EQV 300 Long,10,140,330,273,290,Yes,FWD,Type 2 CCS,SPV,N,7,70631,5.1 sec,180 km/h,370 km,216 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,69484
+Mercedes ,EQV 300 Long,10,140,330,273,290,Yes,FWD,Type 2 CCS,SPV,N,7,70631,5.0 sec,200 km/h,350 km,171 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Mercedes ,EQV 300 Long,10,140,330,273,290,Yes,FWD,Type 2 CCS,SPV,N,7,70631,10.0 sec,140 km/h,330 km,273 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,N,7,70631
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234,7.9 sec,144 km/h,220 km,164 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,29234
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,37237
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234,7.6 sec,160 km/h,440 km,198 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234,14.0 sec,123 km/h,190 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,7,33246
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,57500
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234,7.5 sec,160 km/h,330 km,191 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,45000
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234,5.9 sec,200 km/h,325 km,194 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Leaf ,7.9,144,220,164,230,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,29234,5.1 sec,200 km/h,375 km,232 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,65000
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,37237,7.9 sec,144 km/h,220 km,164 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,29234
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,37237,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,37237
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,37237,7.6 sec,160 km/h,440 km,198 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,37237,14.0 sec,123 km/h,190 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,7,33246
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,37237,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,57500
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,37237,7.5 sec,160 km/h,330 km,191 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,45000
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,37237,5.9 sec,200 km/h,325 km,194 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Leaf e+,7.3,157,325,172,390,Yes,FWD,Type 2 CHAdeMO,Hatchback,C,5,37237,5.1 sec,200 km/h,375 km,232 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,65000
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,50000,7.9 sec,144 km/h,220 km,164 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,29234
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,50000,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,37237
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,50000,7.6 sec,160 km/h,440 km,198 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,50000,14.0 sec,123 km/h,190 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,7,33246
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,50000,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,57500
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,50000,7.5 sec,160 km/h,330 km,191 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,45000
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,50000,5.9 sec,200 km/h,325 km,194 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya 87kWh,7.6,160,440,198,520,Yes,FWD,Type 2 CCS,Hatchback,C,5,50000,5.1 sec,200 km/h,375 km,232 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,65000
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,33246,7.9 sec,144 km/h,220 km,164 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,29234
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,33246,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,37237
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,33246,7.6 sec,160 km/h,440 km,198 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,33246,14.0 sec,123 km/h,190 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,7,33246
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,33246,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,57500
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,33246,7.5 sec,160 km/h,330 km,191 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,45000
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,33246,5.9 sec,200 km/h,325 km,194 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,e-NV200 Evalia ,14,123,190,200,190,Yes,FWD,Type 1 CHAdeMO,SPV,N,7,33246,5.1 sec,200 km/h,375 km,232 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,65000
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,57500,7.9 sec,144 km/h,220 km,164 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,29234
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,57500,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,37237
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,57500,7.6 sec,160 km/h,440 km,198 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,57500,14.0 sec,123 km/h,190 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,7,33246
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,57500,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,57500
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,57500,7.5 sec,160 km/h,330 km,191 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,45000
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,57500,5.9 sec,200 km/h,325 km,194 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya e-4ORCE 87kWh,5.7,200,420,207,500,Yes,AWD,Type 2 CCS,Hatchback,C,5,57500,5.1 sec,200 km/h,375 km,232 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,65000
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,45000,7.9 sec,144 km/h,220 km,164 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,29234
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,45000,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,37237
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,45000,7.6 sec,160 km/h,440 km,198 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,45000,14.0 sec,123 km/h,190 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,7,33246
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,45000,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,57500
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,45000,7.5 sec,160 km/h,330 km,191 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,45000
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,45000,5.9 sec,200 km/h,325 km,194 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya 63kWh,7.5,160,330,191,440,Yes,FWD,Type 2 CCS,Hatchback,C,5,45000,5.1 sec,200 km/h,375 km,232 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,65000
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,50000,7.9 sec,144 km/h,220 km,164 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,29234
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,50000,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,37237
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,50000,7.6 sec,160 km/h,440 km,198 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,50000,14.0 sec,123 km/h,190 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,7,33246
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,50000,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,57500
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,50000,7.5 sec,160 km/h,330 km,191 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,45000
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,50000,5.9 sec,200 km/h,325 km,194 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya e-4ORCE 63kWh,5.9,200,325,194,440,Yes,AWD,Type 2 CCS,Hatchback,C,5,50000,5.1 sec,200 km/h,375 km,232 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,65000
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,65000,7.9 sec,144 km/h,220 km,164 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,29234
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,65000,7.3 sec,157 km/h,325 km,172 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,5,37237
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,65000,7.6 sec,160 km/h,440 km,198 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,65000,14.0 sec,123 km/h,190 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,7,33246
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,65000,5.7 sec,200 km/h,420 km,207 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,57500
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,65000,7.5 sec,160 km/h,330 km,191 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,45000
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,65000,5.9 sec,200 km/h,325 km,194 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,50000
+Nissan ,Ariya e-4ORCE 87kWh Performance,5.1,200,375,232,450,Yes,AWD,Type 2 CCS,Hatchback,C,5,65000,5.1 sec,200 km/h,375 km,232 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,5,65000
+Hyundai ,Kona Electric 64 kWh,7.9,167,400,160,380,Yes,FWD,Type 2 CCS,SUV,B,5,40795,7.9 sec,167 km/h,400 km,160 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,40795
+Hyundai ,Kona Electric 64 kWh,7.9,167,400,160,380,Yes,FWD,Type 2 CCS,SUV,B,5,40795,9.7 sec,165 km/h,250 km,153 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,C,5,34459
+Hyundai ,Kona Electric 64 kWh,7.9,167,400,160,380,Yes,FWD,Type 2 CCS,SUV,B,5,40795,9.9 sec,155 km/h,255 km,154 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,33971
+Hyundai ,IONIQ Electric,9.7,165,250,153,210,No,FWD,Type 2 CCS,Liftback,C,5,34459,7.9 sec,167 km/h,400 km,160 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,40795
+Hyundai ,IONIQ Electric,9.7,165,250,153,210,No,FWD,Type 2 CCS,Liftback,C,5,34459,9.7 sec,165 km/h,250 km,153 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,C,5,34459
+Hyundai ,IONIQ Electric,9.7,165,250,153,210,No,FWD,Type 2 CCS,Liftback,C,5,34459,9.9 sec,155 km/h,255 km,154 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,33971
+Hyundai ,Kona Electric 39 kWh,9.9,155,255,154,210,Yes,FWD,Type 2 CCS,SUV,B,5,33971,7.9 sec,167 km/h,400 km,160 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,40795
+Hyundai ,Kona Electric 39 kWh,9.9,155,255,154,210,Yes,FWD,Type 2 CCS,SUV,B,5,33971,9.7 sec,165 km/h,250 km,153 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,C,5,34459
+Hyundai ,Kona Electric 39 kWh,9.9,155,255,154,210,Yes,FWD,Type 2 CCS,SUV,B,5,33971,9.9 sec,155 km/h,255 km,154 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,33971
+Porsche ,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Type 2 CCS,Sedan,F,4,180781,2.8 sec,260 km/h,375 km,223 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,180781
+Porsche ,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Type 2 CCS,Sedan,F,4,180781,4.0 sec,250 km/h,365 km,195 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,102945
+Porsche ,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Type 2 CCS,Sedan,F,4,180781,4.0 sec,250 km/h,425 km,197 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,109302
+Porsche ,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Type 2 CCS,Sedan,F,4,180781,3.5 sec,250 km/h,385 km,217 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,F,4,150000
+Porsche ,Taycan Turbo S,2.8,260,375,223,780,Yes,AWD,Type 2 CCS,Sedan,F,4,180781,3.2 sec,260 km/h,390 km,215 Wh/km,810 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,148301
+Porsche ,Taycan 4S,4,250,365,195,730,Yes,AWD,Type 2 CCS,Sedan,F,4,102945,2.8 sec,260 km/h,375 km,223 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,180781
+Porsche ,Taycan 4S,4,250,365,195,730,Yes,AWD,Type 2 CCS,Sedan,F,4,102945,4.0 sec,250 km/h,365 km,195 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,102945
+Porsche ,Taycan 4S,4,250,365,195,730,Yes,AWD,Type 2 CCS,Sedan,F,4,102945,4.0 sec,250 km/h,425 km,197 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,109302
+Porsche ,Taycan 4S,4,250,365,195,730,Yes,AWD,Type 2 CCS,Sedan,F,4,102945,3.5 sec,250 km/h,385 km,217 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,F,4,150000
+Porsche ,Taycan 4S,4,250,365,195,730,Yes,AWD,Type 2 CCS,Sedan,F,4,102945,3.2 sec,260 km/h,390 km,215 Wh/km,810 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,148301
+Porsche ,Taycan 4S Plus,4,250,425,197,890,Yes,AWD,Type 2 CCS,Sedan,F,4,109302,2.8 sec,260 km/h,375 km,223 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,180781
+Porsche ,Taycan 4S Plus,4,250,425,197,890,Yes,AWD,Type 2 CCS,Sedan,F,4,109302,4.0 sec,250 km/h,365 km,195 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,102945
+Porsche ,Taycan 4S Plus,4,250,425,197,890,Yes,AWD,Type 2 CCS,Sedan,F,4,109302,4.0 sec,250 km/h,425 km,197 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,109302
+Porsche ,Taycan 4S Plus,4,250,425,197,890,Yes,AWD,Type 2 CCS,Sedan,F,4,109302,3.5 sec,250 km/h,385 km,217 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,F,4,150000
+Porsche ,Taycan 4S Plus,4,250,425,197,890,Yes,AWD,Type 2 CCS,Sedan,F,4,109302,3.2 sec,260 km/h,390 km,215 Wh/km,810 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,148301
+Porsche ,Taycan Cross Turismo ,3.5,250,385,217,770,Yes,AWD,Type 2 CCS,Station,F,4,150000,2.8 sec,260 km/h,375 km,223 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,180781
+Porsche ,Taycan Cross Turismo ,3.5,250,385,217,770,Yes,AWD,Type 2 CCS,Station,F,4,150000,4.0 sec,250 km/h,365 km,195 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,102945
+Porsche ,Taycan Cross Turismo ,3.5,250,385,217,770,Yes,AWD,Type 2 CCS,Station,F,4,150000,4.0 sec,250 km/h,425 km,197 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,109302
+Porsche ,Taycan Cross Turismo ,3.5,250,385,217,770,Yes,AWD,Type 2 CCS,Station,F,4,150000,3.5 sec,250 km/h,385 km,217 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,F,4,150000
+Porsche ,Taycan Cross Turismo ,3.5,250,385,217,770,Yes,AWD,Type 2 CCS,Station,F,4,150000,3.2 sec,260 km/h,390 km,215 Wh/km,810 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,148301
+Porsche ,Taycan Turbo,3.2,260,390,215,810,No,AWD,Type 2 CCS,Sedan,F,4,148301,2.8 sec,260 km/h,375 km,223 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,180781
+Porsche ,Taycan Turbo,3.2,260,390,215,810,No,AWD,Type 2 CCS,Sedan,F,4,148301,4.0 sec,250 km/h,365 km,195 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,102945
+Porsche ,Taycan Turbo,3.2,260,390,215,810,No,AWD,Type 2 CCS,Sedan,F,4,148301,4.0 sec,250 km/h,425 km,197 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,109302
+Porsche ,Taycan Turbo,3.2,260,390,215,810,No,AWD,Type 2 CCS,Sedan,F,4,148301,3.5 sec,250 km/h,385 km,217 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,F,4,150000
+Porsche ,Taycan Turbo,3.2,260,390,215,810,No,AWD,Type 2 CCS,Sedan,F,4,148301,3.2 sec,260 km/h,390 km,215 Wh/km,810 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,148301
+MG ,ZS EV,8.2,140,220,193,260,No,FWD,Type 2 CCS,SUV,B,5,30000,8.2 sec,140 km/h,220 km,193 Wh/km,260 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,30000
+Mini ,Cooper SE ,7.3,150,185,156,260,Yes,FWD,Type 2 CCS,Hatchback,B,4,31681,7.3 sec,150 km/h,185 km,156 Wh/km,260 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,4,31681
+Opel ,Corsa-e ,8.1,150,275,164,420,Yes,FWD,Type 2 CCS,Hatchback,B,5,29146,8.1 sec,150 km/h,275 km,164 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29146
+Opel ,Corsa-e ,8.1,150,275,164,420,Yes,FWD,Type 2 CCS,Hatchback,B,5,29146,7.3 sec,150 km/h,335 km,173 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,MPV,B,5,41906
+Opel ,Corsa-e ,8.1,150,275,164,420,Yes,FWD,Type 2 CCS,Hatchback,B,5,29146,8.5 sec,150 km/h,255 km,176 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,35000
+Opel ,Ampera-e ,7.3,150,335,173,210,Yes,FWD,Type 2 CCS,MPV,B,5,41906,8.1 sec,150 km/h,275 km,164 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29146
+Opel ,Ampera-e ,7.3,150,335,173,210,Yes,FWD,Type 2 CCS,MPV,B,5,41906,7.3 sec,150 km/h,335 km,173 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,MPV,B,5,41906
+Opel ,Ampera-e ,7.3,150,335,173,210,Yes,FWD,Type 2 CCS,MPV,B,5,41906,8.5 sec,150 km/h,255 km,176 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,35000
+Opel ,Mokka-e ,8.5,150,255,176,390,Yes,FWD,Type 2 CCS,SUV,B,5,35000,8.1 sec,150 km/h,275 km,164 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29146
+Opel ,Mokka-e ,8.5,150,255,176,390,Yes,FWD,Type 2 CCS,SUV,B,5,35000,7.3 sec,150 km/h,335 km,173 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,MPV,B,5,41906
+Opel ,Mokka-e ,8.5,150,255,176,390,Yes,FWD,Type 2 CCS,SUV,B,5,35000,8.5 sec,150 km/h,255 km,176 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,35000
+Skoda ,Enyaq iV 50,10,160,290,179,230,Yes,RWD,Type 2 CCS,SUV,C,5,35000,10.0 sec,160 km/h,290 km,179 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,35000
+Skoda ,Enyaq iV 50,10,160,290,179,230,Yes,RWD,Type 2 CCS,SUV,C,5,35000,12.3 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,24534
+Skoda ,Enyaq iV 50,10,160,290,179,230,Yes,RWD,Type 2 CCS,SUV,C,5,35000,8.8 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,40000
+Skoda ,Enyaq iV 50,10,160,290,179,230,Yes,RWD,Type 2 CCS,SUV,C,5,35000,7.0 sec,160 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Skoda ,Enyaq iV 50,10,160,290,179,230,Yes,RWD,Type 2 CCS,SUV,C,5,35000,6.2 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,47500
+Skoda ,Enyaq iV 50,10,160,290,179,230,Yes,RWD,Type 2 CCS,SUV,C,5,35000,9.0 sec,160 km/h,320 km,181 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,37500
+Skoda ,CITIGOe iV ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,24534,10.0 sec,160 km/h,290 km,179 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,35000
+Skoda ,CITIGOe iV ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,24534,12.3 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,24534
+Skoda ,CITIGOe iV ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,24534,8.8 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,40000
+Skoda ,CITIGOe iV ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,24534,7.0 sec,160 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Skoda ,CITIGOe iV ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,24534,6.2 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,47500
+Skoda ,CITIGOe iV ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,24534,9.0 sec,160 km/h,320 km,181 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,37500
+Skoda ,Enyaq iV 80,8.8,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,40000,10.0 sec,160 km/h,290 km,179 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,35000
+Skoda ,Enyaq iV 80,8.8,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,40000,12.3 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,24534
+Skoda ,Enyaq iV 80,8.8,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,40000,8.8 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,40000
+Skoda ,Enyaq iV 80,8.8,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,40000,7.0 sec,160 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Skoda ,Enyaq iV 80,8.8,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,40000,6.2 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,47500
+Skoda ,Enyaq iV 80,8.8,160,420,183,560,Yes,RWD,Type 2 CCS,SUV,C,5,40000,9.0 sec,160 km/h,320 km,181 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,37500
+Skoda ,Enyaq iV 80X,7,160,400,193,540,No,AWD,Type 2 CCS,SUV,C,5,45000,10.0 sec,160 km/h,290 km,179 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,35000
+Skoda ,Enyaq iV 80X,7,160,400,193,540,No,AWD,Type 2 CCS,SUV,C,5,45000,12.3 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,24534
+Skoda ,Enyaq iV 80X,7,160,400,193,540,No,AWD,Type 2 CCS,SUV,C,5,45000,8.8 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,40000
+Skoda ,Enyaq iV 80X,7,160,400,193,540,No,AWD,Type 2 CCS,SUV,C,5,45000,7.0 sec,160 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Skoda ,Enyaq iV 80X,7,160,400,193,540,No,AWD,Type 2 CCS,SUV,C,5,45000,6.2 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,47500
+Skoda ,Enyaq iV 80X,7,160,400,193,540,No,AWD,Type 2 CCS,SUV,C,5,45000,9.0 sec,160 km/h,320 km,181 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,37500
+Skoda ,Enyaq iV vRS,6.2,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,C,5,47500,10.0 sec,160 km/h,290 km,179 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,35000
+Skoda ,Enyaq iV vRS,6.2,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,C,5,47500,12.3 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,24534
+Skoda ,Enyaq iV vRS,6.2,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,C,5,47500,8.8 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,40000
+Skoda ,Enyaq iV vRS,6.2,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,C,5,47500,7.0 sec,160 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Skoda ,Enyaq iV vRS,6.2,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,C,5,47500,6.2 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,47500
+Skoda ,Enyaq iV vRS,6.2,180,400,193,540,Yes,AWD,Type 2 CCS,SUV,C,5,47500,9.0 sec,160 km/h,320 km,181 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,37500
+Skoda ,Enyaq iV 60,9,160,320,181,440,Yes,RWD,Type 2 CCS,SUV,C,5,37500,10.0 sec,160 km/h,290 km,179 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,35000
+Skoda ,Enyaq iV 60,9,160,320,181,440,Yes,RWD,Type 2 CCS,SUV,C,5,37500,12.3 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,24534
+Skoda ,Enyaq iV 60,9,160,320,181,440,Yes,RWD,Type 2 CCS,SUV,C,5,37500,8.8 sec,160 km/h,420 km,183 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,40000
+Skoda ,Enyaq iV 60,9,160,320,181,440,Yes,RWD,Type 2 CCS,SUV,C,5,37500,7.0 sec,160 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,45000
+Skoda ,Enyaq iV 60,9,160,320,181,440,Yes,RWD,Type 2 CCS,SUV,C,5,37500,6.2 sec,180 km/h,400 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,47500
+Skoda ,Enyaq iV 60,9,160,320,181,440,Yes,RWD,Type 2 CCS,SUV,C,5,37500,9.0 sec,160 km/h,320 km,181 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,5,37500
+Volvo ,XC40 P8 AWD Recharge,4.9,180,375,200,470,Yes,AWD,Type 2 CCS,SUV,C,5,60437,4.9 sec,180 km/h,375 km,200 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,5,60437
+Kia ,e-Niro 64 kWh,7.8,167,370,173,350,Yes,FWD,Type 2 CCS,SUV,C,5,38105,7.8 sec,167 km/h,370 km,173 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,38105
+Kia ,e-Niro 64 kWh,7.8,167,370,173,350,Yes,FWD,Type 2 CCS,SUV,C,5,38105,7.9 sec,167 km/h,365 km,175 Wh/km,340 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Niro 64 kWh,7.8,167,370,173,350,Yes,FWD,Type 2 CCS,SUV,C,5,38105,9.8 sec,155 km/h,235 km,167 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,34400
+Kia ,e-Niro 64 kWh,7.8,167,370,173,350,Yes,FWD,Type 2 CCS,SUV,C,5,38105,7.9 sec,167 km/h,365 km,175 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Niro 64 kWh,7.8,167,370,173,350,Yes,FWD,Type 2 CCS,SUV,C,5,38105,9.9 sec,157 km/h,230 km,170 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,33133
+Kia ,e-Soul 64 kWh,7.9,167,365,175,340,Yes,FWD,Type 2 CCS,SUV,B,5,36837,7.8 sec,167 km/h,370 km,173 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,38105
+Kia ,e-Soul 64 kWh,7.9,167,365,175,340,Yes,FWD,Type 2 CCS,SUV,B,5,36837,7.9 sec,167 km/h,365 km,175 Wh/km,340 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Soul 64 kWh,7.9,167,365,175,340,Yes,FWD,Type 2 CCS,SUV,B,5,36837,9.8 sec,155 km/h,235 km,167 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,34400
+Kia ,e-Soul 64 kWh,7.9,167,365,175,340,Yes,FWD,Type 2 CCS,SUV,B,5,36837,7.9 sec,167 km/h,365 km,175 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Soul 64 kWh,7.9,167,365,175,340,Yes,FWD,Type 2 CCS,SUV,B,5,36837,9.9 sec,157 km/h,230 km,170 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,33133
+Kia ,e-Niro 39 kWh,9.8,155,235,167,230,Yes,FWD,Type 2 CCS,SUV,C,5,34400,7.8 sec,167 km/h,370 km,173 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,38105
+Kia ,e-Niro 39 kWh,9.8,155,235,167,230,Yes,FWD,Type 2 CCS,SUV,C,5,34400,7.9 sec,167 km/h,365 km,175 Wh/km,340 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Niro 39 kWh,9.8,155,235,167,230,Yes,FWD,Type 2 CCS,SUV,C,5,34400,9.8 sec,155 km/h,235 km,167 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,34400
+Kia ,e-Niro 39 kWh,9.8,155,235,167,230,Yes,FWD,Type 2 CCS,SUV,C,5,34400,7.9 sec,167 km/h,365 km,175 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Niro 39 kWh,9.8,155,235,167,230,Yes,FWD,Type 2 CCS,SUV,C,5,34400,9.9 sec,157 km/h,230 km,170 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,33133
+Kia ,e-Soul 64 kWh,7.9,167,365,175,320,No,FWD,Type 2 CCS,SUV,B,5,36837,7.8 sec,167 km/h,370 km,173 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,38105
+Kia ,e-Soul 64 kWh,7.9,167,365,175,320,No,FWD,Type 2 CCS,SUV,B,5,36837,7.9 sec,167 km/h,365 km,175 Wh/km,340 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Soul 64 kWh,7.9,167,365,175,320,No,FWD,Type 2 CCS,SUV,B,5,36837,9.8 sec,155 km/h,235 km,167 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,34400
+Kia ,e-Soul 64 kWh,7.9,167,365,175,320,No,FWD,Type 2 CCS,SUV,B,5,36837,7.9 sec,167 km/h,365 km,175 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Soul 64 kWh,7.9,167,365,175,320,No,FWD,Type 2 CCS,SUV,B,5,36837,9.9 sec,157 km/h,230 km,170 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,33133
+Kia ,e-Soul 39 kWh,9.9,157,230,170,220,Yes,FWD,Type 2 CCS,SUV,B,5,33133,7.8 sec,167 km/h,370 km,173 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,38105
+Kia ,e-Soul 39 kWh,9.9,157,230,170,220,Yes,FWD,Type 2 CCS,SUV,B,5,33133,7.9 sec,167 km/h,365 km,175 Wh/km,340 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Soul 39 kWh,9.9,157,230,170,220,Yes,FWD,Type 2 CCS,SUV,B,5,33133,9.8 sec,155 km/h,235 km,167 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,34400
+Kia ,e-Soul 39 kWh,9.9,157,230,170,220,Yes,FWD,Type 2 CCS,SUV,B,5,33133,7.9 sec,167 km/h,365 km,175 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,36837
+Kia ,e-Soul 39 kWh,9.9,157,230,170,220,Yes,FWD,Type 2 CCS,SUV,B,5,33133,9.9 sec,157 km/h,230 km,170 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,33133
+Renault ,Zoe ZE50 R110,11.4,135,315,165,230,Yes,FWD,Type 2 CCS,Hatchback,B,5,31184,11.4 sec,135 km/h,315 km,165 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,31184
+Renault ,Zoe ZE50 R110,11.4,135,315,165,230,Yes,FWD,Type 2 CCS,Hatchback,B,5,31184,9.5 sec,140 km/h,310 km,168 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,33133
+Renault ,Zoe ZE50 R110,11.4,135,315,165,230,Yes,FWD,Type 2 CCS,Hatchback,B,5,31184,12.6 sec,135 km/h,130 km,164 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,4,24790
+Renault ,Zoe ZE50 R110,11.4,135,315,165,230,Yes,FWD,Type 2 CCS,Hatchback,B,5,31184,11.4 sec,135 km/h,255 km,161 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29234
+Renault ,Zoe ZE50 R110,11.4,135,315,165,230,Yes,FWD,Type 2 CCS,Hatchback,B,5,31184,22.4 sec,130 km/h,160 km,194 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2,SPV,N,5,38000
+Renault ,Zoe ZE50 R135,9.5,140,310,168,230,No,FWD,Type 2 CCS,Hatchback,B,5,33133,11.4 sec,135 km/h,315 km,165 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,31184
+Renault ,Zoe ZE50 R135,9.5,140,310,168,230,No,FWD,Type 2 CCS,Hatchback,B,5,33133,9.5 sec,140 km/h,310 km,168 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,33133
+Renault ,Zoe ZE50 R135,9.5,140,310,168,230,No,FWD,Type 2 CCS,Hatchback,B,5,33133,12.6 sec,135 km/h,130 km,164 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,4,24790
+Renault ,Zoe ZE50 R135,9.5,140,310,168,230,No,FWD,Type 2 CCS,Hatchback,B,5,33133,11.4 sec,135 km/h,255 km,161 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29234
+Renault ,Zoe ZE50 R135,9.5,140,310,168,230,No,FWD,Type 2 CCS,Hatchback,B,5,33133,22.4 sec,130 km/h,160 km,194 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2,SPV,N,5,38000
+Renault ,Twingo ZE,12.6,135,130,164,200,No,RWD,Type 2,Hatchback,A,4,24790,11.4 sec,135 km/h,315 km,165 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,31184
+Renault ,Twingo ZE,12.6,135,130,164,200,No,RWD,Type 2,Hatchback,A,4,24790,9.5 sec,140 km/h,310 km,168 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,33133
+Renault ,Twingo ZE,12.6,135,130,164,200,No,RWD,Type 2,Hatchback,A,4,24790,12.6 sec,135 km/h,130 km,164 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,4,24790
+Renault ,Twingo ZE,12.6,135,130,164,200,No,RWD,Type 2,Hatchback,A,4,24790,11.4 sec,135 km/h,255 km,161 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29234
+Renault ,Twingo ZE,12.6,135,130,164,200,No,RWD,Type 2,Hatchback,A,4,24790,22.4 sec,130 km/h,160 km,194 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2,SPV,N,5,38000
+Renault ,Zoe ZE40 R110,11.4,135,255,161,230,No,FWD,Type 2 CCS,Hatchback,B,5,29234,11.4 sec,135 km/h,315 km,165 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,31184
+Renault ,Zoe ZE40 R110,11.4,135,255,161,230,No,FWD,Type 2 CCS,Hatchback,B,5,29234,9.5 sec,140 km/h,310 km,168 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,33133
+Renault ,Zoe ZE40 R110,11.4,135,255,161,230,No,FWD,Type 2 CCS,Hatchback,B,5,29234,12.6 sec,135 km/h,130 km,164 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,4,24790
+Renault ,Zoe ZE40 R110,11.4,135,255,161,230,No,FWD,Type 2 CCS,Hatchback,B,5,29234,11.4 sec,135 km/h,255 km,161 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29234
+Renault ,Zoe ZE40 R110,11.4,135,255,161,230,No,FWD,Type 2 CCS,Hatchback,B,5,29234,22.4 sec,130 km/h,160 km,194 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2,SPV,N,5,38000
+Renault ,Kangoo Maxi ZE 33,22.4,130,160,194,200,No,FWD,Type 2,SPV,N,5,38000,11.4 sec,135 km/h,315 km,165 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,31184
+Renault ,Kangoo Maxi ZE 33,22.4,130,160,194,200,No,FWD,Type 2,SPV,N,5,38000,9.5 sec,140 km/h,310 km,168 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,33133
+Renault ,Kangoo Maxi ZE 33,22.4,130,160,194,200,No,FWD,Type 2,SPV,N,5,38000,12.6 sec,135 km/h,130 km,164 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,4,24790
+Renault ,Kangoo Maxi ZE 33,22.4,130,160,194,200,No,FWD,Type 2,SPV,N,5,38000,11.4 sec,135 km/h,255 km,161 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,5,29234
+Renault ,Kangoo Maxi ZE 33,22.4,130,160,194,200,No,FWD,Type 2,SPV,N,5,38000,22.4 sec,130 km/h,160 km,194 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2,SPV,N,5,38000
+Mazda ,MX-30 ,9,150,180,178,240,Yes,FWD,Type 2 CCS,SUV,C,5,32646,9.0 sec,150 km/h,180 km,178 Wh/km,240 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,32646
+Lexus ,UX 300e,7.5,160,270,193,190,Yes,FWD,Type 2 CHAdeMO,SUV,C,5,50000,7.5 sec,160 km/h,270 km,193 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,C,5,50000
+CUPRA ,el-Born ,6.5,160,425,181,570,No,RWD,Type 2 CCS,Hatchback,C,4,45000,6.5 sec,160 km/h,425 km,181 Wh/km,570 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,45000
+SEAT ,Mii Electric ,12.3,130,195,166,170,Yes,FWD,Type 2 CCS,Hatchback,A,4,20129,12.3 sec,130 km/h,195 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,4,20129
+Lightyear ,One ,10,150,575,104,540,Yes,AWD,Type 2 CCS,Liftback,F,5,149000,10.0 sec,150 km/h,575 km,104 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,F,5,149000
+Aiways ,U5 ,9,150,335,188,350,No,FWD,Type 2 CCS,SUV,C,5,36057,9.0 sec,150 km/h,335 km,188 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,36057
+DS ,3 Crossback E-Tense,8.7,150,250,180,380,Yes,FWD,Type 2 CCS,SUV,B,5,37422,8.7 sec,150 km/h,250 km,180 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,37422
+Citroen ,e-C4 ,9.7,150,250,180,380,Yes,FWD,Type 2 CCS,SUV,C,5,40000,9.7 sec,150 km/h,250 km,180 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,C,5,40000
+Jaguar ,I-Pace ,4.8,200,365,232,340,No,AWD,Type 2 CCS,SUV,E,5,75351,4.8 sec,200 km/h,365 km,232 Wh/km,340 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,75351
+Ford ,Mustang Mach-E ER RWD,7,180,450,200,430,No,RWD,Type 2 CCS,SUV,D,5,54475,7.0 sec,180 km/h,450 km,200 Wh/km,430 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,54475
+Ford ,Mustang Mach-E ER RWD,7,180,450,200,430,No,RWD,Type 2 CCS,SUV,D,5,54475,6.0 sec,180 km/h,430 km,209 Wh/km,410 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,62900
+Ford ,Mustang Mach-E ER RWD,7,180,450,200,430,No,RWD,Type 2 CCS,SUV,D,5,54475,6.0 sec,180 km/h,340 km,206 Wh/km,360 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,54000
+Ford ,Mustang Mach-E ER RWD,7,180,450,200,430,No,RWD,Type 2 CCS,SUV,D,5,54475,6.6 sec,180 km/h,360 km,194 Wh/km,380 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,46900
+Ford ,Mustang Mach-E ER AWD,6,180,430,209,410,Yes,AWD,Type 2 CCS,SUV,D,5,62900,7.0 sec,180 km/h,450 km,200 Wh/km,430 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,54475
+Ford ,Mustang Mach-E ER AWD,6,180,430,209,410,Yes,AWD,Type 2 CCS,SUV,D,5,62900,6.0 sec,180 km/h,430 km,209 Wh/km,410 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,62900
+Ford ,Mustang Mach-E ER AWD,6,180,430,209,410,Yes,AWD,Type 2 CCS,SUV,D,5,62900,6.0 sec,180 km/h,340 km,206 Wh/km,360 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,54000
+Ford ,Mustang Mach-E ER AWD,6,180,430,209,410,Yes,AWD,Type 2 CCS,SUV,D,5,62900,6.6 sec,180 km/h,360 km,194 Wh/km,380 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,46900
+Ford ,Mustang Mach-E SR AWD,6,180,340,206,360,Yes,AWD,Type 2 CCS,SUV,D,5,54000,7.0 sec,180 km/h,450 km,200 Wh/km,430 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,54475
+Ford ,Mustang Mach-E SR AWD,6,180,340,206,360,Yes,AWD,Type 2 CCS,SUV,D,5,54000,6.0 sec,180 km/h,430 km,209 Wh/km,410 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,62900
+Ford ,Mustang Mach-E SR AWD,6,180,340,206,360,Yes,AWD,Type 2 CCS,SUV,D,5,54000,6.0 sec,180 km/h,340 km,206 Wh/km,360 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,54000
+Ford ,Mustang Mach-E SR AWD,6,180,340,206,360,Yes,AWD,Type 2 CCS,SUV,D,5,54000,6.6 sec,180 km/h,360 km,194 Wh/km,380 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,46900
+Ford ,Mustang Mach-E SR RWD,6.6,180,360,194,380,Yes,RWD,Type 2 CCS,SUV,D,5,46900,7.0 sec,180 km/h,450 km,200 Wh/km,430 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,54475
+Ford ,Mustang Mach-E SR RWD,6.6,180,360,194,380,Yes,RWD,Type 2 CCS,SUV,D,5,46900,6.0 sec,180 km/h,430 km,209 Wh/km,410 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,62900
+Ford ,Mustang Mach-E SR RWD,6.6,180,360,194,380,Yes,RWD,Type 2 CCS,SUV,D,5,46900,6.0 sec,180 km/h,340 km,206 Wh/km,360 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,D,5,54000
+Ford ,Mustang Mach-E SR RWD,6.6,180,360,194,380,Yes,RWD,Type 2 CCS,SUV,D,5,46900,6.6 sec,180 km/h,360 km,194 Wh/km,380 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,46900
+Byton ,M-Byte 95 kWh 4WD,5.5,190,390,244,460,Yes,AWD,Type 2 CCS,SUV,E,5,64000,5.5 sec,190 km/h,390 km,244 Wh/km,460 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,64000
+Byton ,M-Byte 95 kWh 4WD,5.5,190,390,244,460,Yes,AWD,Type 2 CCS,SUV,E,5,64000,7.5 sec,190 km/h,325 km,222 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,E,5,53500
+Byton ,M-Byte 95 kWh 4WD,5.5,190,390,244,460,Yes,AWD,Type 2 CCS,SUV,E,5,64000,7.5 sec,190 km/h,400 km,238 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,62000
+Byton ,M-Byte 72 kWh 2WD,7.5,190,325,222,420,No,RWD,Type 2 CCS,SUV,E,5,53500,5.5 sec,190 km/h,390 km,244 Wh/km,460 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,64000
+Byton ,M-Byte 72 kWh 2WD,7.5,190,325,222,420,No,RWD,Type 2 CCS,SUV,E,5,53500,7.5 sec,190 km/h,325 km,222 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,E,5,53500
+Byton ,M-Byte 72 kWh 2WD,7.5,190,325,222,420,No,RWD,Type 2 CCS,SUV,E,5,53500,7.5 sec,190 km/h,400 km,238 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,62000
+Byton ,M-Byte 95 kWh 2WD,7.5,190,400,238,480,No,AWD,Type 2 CCS,SUV,E,5,62000,5.5 sec,190 km/h,390 km,244 Wh/km,460 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,64000
+Byton ,M-Byte 95 kWh 2WD,7.5,190,400,238,480,No,AWD,Type 2 CCS,SUV,E,5,62000,7.5 sec,190 km/h,325 km,222 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,E,5,53500
+Byton ,M-Byte 95 kWh 2WD,7.5,190,400,238,480,No,AWD,Type 2 CCS,SUV,E,5,62000,7.5 sec,190 km/h,400 km,238 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,62000
+Sono ,Sion ,9,140,225,156,270,Yes,FWD,Type 2 CCS,Hatchback,C,5,25500,9.0 sec,140 km/h,225 km,156 Wh/km,270 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,5,25500
+Smart ,EQ forfour ,12.7,130,95,176,200,No,RWD,Type 2,Hatchback,A,4,22030,12.7 sec,130 km/h,95 km,176 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,4,22030
+Smart ,EQ forfour ,12.7,130,95,176,200,No,RWD,Type 2,Hatchback,A,4,22030,11.6 sec,130 km/h,100 km,167 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,2,21387
+Smart ,EQ forfour ,12.7,130,95,176,200,No,RWD,Type 2,Hatchback,A,4,22030,11.9 sec,130 km/h,95 km,176 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Cabrio,A,2,24565
+Smart ,EQ fortwo coupe,11.6,130,100,167,200,No,RWD,Type 2,Hatchback,A,2,21387,12.7 sec,130 km/h,95 km,176 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,4,22030
+Smart ,EQ fortwo coupe,11.6,130,100,167,200,No,RWD,Type 2,Hatchback,A,2,21387,11.6 sec,130 km/h,100 km,167 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,2,21387
+Smart ,EQ fortwo coupe,11.6,130,100,167,200,No,RWD,Type 2,Hatchback,A,2,21387,11.9 sec,130 km/h,95 km,176 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Cabrio,A,2,24565
+Smart ,EQ fortwo cabrio,11.9,130,95,176,200,No,RWD,Type 2,Cabrio,A,2,24565,12.7 sec,130 km/h,95 km,176 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,4,22030
+Smart ,EQ fortwo cabrio,11.9,130,95,176,200,No,RWD,Type 2,Cabrio,A,2,24565,11.6 sec,130 km/h,100 km,167 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,A,2,21387
+Smart ,EQ fortwo cabrio,11.9,130,95,176,200,No,RWD,Type 2,Cabrio,A,2,24565,11.9 sec,130 km/h,95 km,176 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Cabrio,A,2,24565
+Fiat ,500e Hatchback,9,150,250,168,330,Yes,FWD,Type 2 CCS,Hatchback,B,4,34900,9.0 sec,150 km/h,250 km,168 Wh/km,330 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,4,34900
+Fiat ,500e Hatchback,9,150,250,168,330,Yes,FWD,Type 2 CCS,Hatchback,B,4,34900,9.0 sec,150 km/h,250 km,168 Wh/km,330 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,B,4,37900
+Fiat ,500e Convertible,9,150,250,168,330,Yes,FWD,Type 2 CCS,Cabrio,B,4,37900,9.0 sec,150 km/h,250 km,168 Wh/km,330 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,4,34900
+Fiat ,500e Convertible,9,150,250,168,330,Yes,FWD,Type 2 CCS,Cabrio,B,4,37900,9.0 sec,150 km/h,250 km,168 Wh/km,330 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,B,4,37900
